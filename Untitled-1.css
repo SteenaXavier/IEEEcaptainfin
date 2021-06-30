@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+}
+    body{
+    background: url(bgm.png);
+    background-size: cover;
+}
+.gst p{
+    font-size:25px;
+    color:rgba(253, 253, 253, 0.952);
+    margin-left:41%;
+}
+.gst h1{
+    margin-top:19%;
+    font-size:60px;
+    color:rgba(253, 253, 253, 0.952);
+    margin-left:38%;
+}
+.gst .gt img{
+    margin-top:-10%;
+    margin-left:24%;
+    height:200px;
+    width:200px;
+    float: left;
+}
+.but a{
+    position: absolute;
+    left:580px;
+    top:350px;
+    background-color: rgb(0, 0, 0);
+    color:white;
+     text-decoration: none;
+    font-size: 30px;
+    border-radius: 50px;
+    width:150px;
+    padding-left:10px ;
+    box-shadow: 0px 3px 12px rgb(255, 255, 255);
+}
+.but a:hover{
+    color:rgba(0, 0, 0, 0.76);
+    background-color: rgba(255, 255, 255, 0.767);
+    box-shadow: 0px 3px 12px rgb(0, 0, 0);
+}
